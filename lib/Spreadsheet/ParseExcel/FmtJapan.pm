@@ -127,6 +127,13 @@ sub FmtStringDef {
 
 my @Nengo = (
 	{
+		name      => '令和', # Reiwa
+		abbr_name => 'R',
+
+		base      => 2018,
+		start     => 20190501,
+	},
+	{
 		name      => '平成', # Heisei
 		abbr_name => 'H',
 
